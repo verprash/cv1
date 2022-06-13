@@ -1,0 +1,19 @@
+body{
+    background-color: #C4DDFF;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: gray;
+    border-width: 5px;
+    width: 50px;
+}
+h1{
+    color: blueviolet;
+}
+h3{
+    color: blueviolet;
+}
+img{
+    height: 150px;
+}
